@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "apkUrl": "https://github.com/kubericdiamond/erp/releases/download/v1.0.1/app-release.apk",
+  "changelog": "Tax invoice generation, billing page styling redesign, customer payments with auto-settlement, and dynamic UPI QR code."
+}
